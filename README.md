@@ -12,5 +12,5 @@ A program being a 'Game of life' cellular automaton created under Conway's rules
 + Any live cell with two or three live neighbours lives on to the next generation. <br/>
 + Any live cell with more than three live neighbours dies, as if by overpopulation. <br/>
 + Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction. <br/>
-⋅⋅⋅Program created using JavaFX library. Model-View-Controller design pattern was used. Cells' states in every cycle are saved in two-dimmensional array of booleans. <br/> 
+-Program created using JavaFX library. Model-View-Controller design pattern was used. Cells' states in every cycle are saved in two-dimmensional array of booleans. <br/> 
 [More informations about the game](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) <br/>
